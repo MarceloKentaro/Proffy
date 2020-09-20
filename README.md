@@ -1,1 +1,2 @@
-# Proffy
+# Proffy - NLW
+## Marcelo Kentaro Funagoshi
